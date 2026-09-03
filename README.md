@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Talha 👋</h1>
 
 <p align="center">
-  <em>Learning software development — starting from the fundamentals and building toward full-stack web development.</em>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Full-Stack+Web+Development;C+%26+Python+Programmer;Exploring+HTML,+CSS,+JS,+React+%26+Next.js;Always+Building+Something+New" alt="Typing SVG"/>
 </p>
 
 ---
@@ -52,6 +52,15 @@
 | [Portfolio Website](https://github.com/talhabinsaleh/Class-6---portfolio-Website) | Personal portfolio built while practicing HTML/CSS layout fundamentals |
 | [Quiz Creation Website](https://github.com/talhabinsaleh/Project-By-AI) | A quiz-taking web app built as a JavaScript practice project |
 | [Assignment Practice](https://github.com/talhabinsaleh/1st-Assignment-for-PR) | Coursework assignment practicing HTML fundamentals |
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/talha-bin-saleh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="http://talha-bin-saleh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
